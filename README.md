@@ -8,7 +8,7 @@ The purpose of this project is to classify images of three distinct types of foo
 - **data/**: Contains the CIFAR-10 dataset (or instructions for downloading).
 - **scripts/**: Python scripts for training, evaluation, and preprocessing.
 - **notebooks/**: Jupyter notebooks for training and experimentation.
-- 
+  
 ## Requirements
  tensorflow==2.11.0
  

@@ -28,13 +28,11 @@ Running the Code
 Training the Model
 Run the following script to train the model:
 bash
-Copy code
-python scripts/train_model_cifar10.py
+Copy code: python scripts/train_model_cifar10.py
 Evaluating the Model
 After training, evaluate the model performance:
 bash
-Copy code
-python scripts/evaluate_model.py
+Copy code: python scripts/evaluate_model.py
 Results
 The model achieves [insert accuracy] on the test set.
 

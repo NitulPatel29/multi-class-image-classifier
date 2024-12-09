@@ -9,13 +9,16 @@ multi-class-image-classifier/
 ??? data/
 ?   ??? cifar10/                 # Folder for CIFAR-10 dataset (if included)
 ?   ??? README.md                # Optional, dataset details (for local hosting)
+
 ??? notebooks/
 ?   ??? train_model_cifar10.ipynb  # Jupyter notebook for CIFAR-10 model training
 ?   ??? experimentation.ipynb      # Jupyter notebook for hyperparameter tuning or model comparison
+
 ??? scripts/
 ?   ??? train_model_cifar10.py     # Python script for training the CIFAR-10 model
 ?   ??? preprocess_data.py         # Data preprocessing script for CIFAR-10
 ?   ??? evaluate_model.py          # Python script to evaluate model performance
+
 ??? requirements.txt               # Dependencies
 ??? README.md                      # Project description and instructions
 ??? AIDI_1002_Final_Project_Template.ipynb  # Final report (if applicable)

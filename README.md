@@ -11,8 +11,11 @@ This project implements a multi-class image classifier using Convolutional Neura
 
 ## Requirements
 tensorflow==2.11.0
+
 numpy==1.23.0
+
 matplotlib==3.6.0
+
 scikit-learn==1.1.2
 
 Open-source dataset link: https://github.com/IsraelAzoulay/multi-class-image-classifier-computer-vision
